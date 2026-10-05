@@ -1,0 +1,23 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding:30px;
+}
+.card
+{
+    max-width: 700px;
+    margin: 15px;
+    padding: 25px 35px;
+    background-color: rgb(149, 204, 31);
+    border-radius: 8px;
+}
+p
+{
+    font-size: 20px;
+    color: rgb(50, 2, 50);
+}
+.description
+{
+    text-align: no justify;
+}
